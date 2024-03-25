@@ -5,7 +5,7 @@ title: Shashikiran Ganesh
 # Name pronunciation (optional)
 name_pronunciation: Shashikiran Ganesh
 
-# Full name (for SEO)
+# Full name 
 first_name: Shashikiran
 last_name: Ganesh
 
