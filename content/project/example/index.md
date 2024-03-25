@@ -1,9 +1,9 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Astronomical Polarimetry
+summary: polarimeters built at PRL for astronomy
 tags:
-  - Deep Learning
-date: '2016-04-27T00:00:00Z'
+  - polarimetry
+date: '2024-03-25T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -16,7 +16,7 @@ links:
   - icon: twitter
     icon_pack: fab
     name: Follow
-    url: https://twitter.com/georgecushen
+    url: https://twitter.com/shashiganesh
 url_code: ''
 url_pdf: ''
 url_slides: ''
