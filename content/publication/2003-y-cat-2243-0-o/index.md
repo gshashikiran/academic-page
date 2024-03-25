@@ -1,0 +1,63 @@
+---
+title: 'VizieR Online Data Catalog: The ISOGAL Point Source Catalogue - IGPSC (Omont+
+  2003)'
+authors:
+- A. Omont
+- G.~F. Gilmore
+- C. Alard
+- B. Aracil
+- T. August
+- K. Baliyan
+- S. Beaulieu
+- S. Begon
+- X. Bertou
+- J.~A.~D.~L. Blommaert
+- J. Borsenberger
+- M. Burgdorf
+- B. Caillaud
+- C. Cesarsky
+- A. Chitre
+- E. Copet
+- B. de Batz
+- M.~P. Egan
+- D. Egret
+- N. Epchtein
+- M. Felli
+- P. Fouque
+- S. Ganesh
+- R. Genzel
+- I.~S. Glass
+- R. Gredel
+- M.~A.~T. Groenewegen
+- F. Guglielmo
+- H.~J. Habing
+- P. Hennebelle
+- B. Jiang
+- U.~C. Joshi
+- S. Kimeswenger
+- M. Messineo
+- M.~A. Miville-Deschenes
+- A. Moneti
+- M. Morris
+- D.~K. Ojha
+- R. Ortiz
+- S. Ott
+- M. Parthasarathy
+- M. Perault
+- S.~D. Price
+- A.~C. Robin
+- M. Schultheis
+- F. Schuller
+- G. Simon
+- A. Soive
+- L. Testi
+- D. Teyssier
+- D. Tiphene
+- M. Unavane
+- J.~T. van Loon
+- R. Wyse
+date: '2003-06-01'
+publishDate: '2024-03-25T16:45:48.182165Z'
+publication_types:
+- manuscript
+---
