@@ -57,17 +57,17 @@ education:
 skills:
   - name: Technical
     items:
-      - name: Python
+      - name: IRAF
         description: ''
         percent: 80
         icon: python
         icon_pack: fab
-      - name: Data Science
+      - name: LaTeX
         description: ''
         percent: 100
         icon: chart-line
         icon_pack: fas
-      - name: SQL
+      - name: R
         description: ''
         percent: 40
         icon: database
