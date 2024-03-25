@@ -1,0 +1,249 @@
+---
+title: VHE gamma-ray detection of FSRQ QSO B1420+326 and modeling of its enhanced
+  broadband state in 2020
+authors:
+- MAGIC Collaboration
+- V.~A. Acciari
+- S. Ansoldi
+- L.~A. Antonelli
+- A. Arbet Engels
+- M. Artero
+- K. Asano
+- D. Baack
+- A. Babić
+- A. Baquero
+- U. Barres de Almeida
+- J.~A. Barrio
+- J. Becerra González
+- W. Bednarek
+- L. Bellizzi
+- E. Bernardini
+- M. Bernardos
+- A. Berti
+- J. Besenrieder
+- W. Bhattacharyya
+- C. Bigongiari
+- A. Biland
+- O. Blanch
+- G. Bonnoli
+- Ž. Bošnjak
+- G. Busetto
+- R. Carosi
+- G. Ceribella
+- M. Cerruti
+- Y. Chai
+- A. Chilingarian
+- S. Cikota
+- S.~M. Colak
+- E. Colombo
+- J.~L. Contreras
+- J. Cortina
+- S. Covino
+- G. D'Amico
+- V. D'Elia
+- P. da Vela
+- F. Dazzi
+- A. de Angelis
+- B. de Lotto
+- M. Delfino
+- J. Delgado
+- C. Delgado Mendez
+- D. Depaoli
+- F. di Pierro
+- L. di Venere
+- E. Do Souto Espiñeira
+- D. Dominis Prester
+- A. Donini
+- D. Dorner
+- M. Doro
+- D. Elsaesser
+- V. Fallah Ramazani
+- A. Fattorini
+- G. Ferrara
+- L. Foffano
+- M.~V. Fonseca
+- L. Font
+- C. Fruck
+- S. Fukami
+- R.~J. Garc\á López
+- M. Garczarczyk
+- S. Gasparyan
+- M. Gaug
+- N. Giglietto
+- F. Giordano
+- P. Gliwny
+- Godinovi\' ́N.
+- J.~G. Green
+- D. Green
+- D. Hadasch
+- A. Hahn
+- L. Heckmann
+- J. Herrera
+- J. Hoang
+- D. Hrupec
+- M. Hütten
+- T. Inada
+- S. Inoue
+- K. Ishio
+- Y. Iwamura
+- J. Jormanainen
+- L. Jouvin
+- Y. Kajiwara
+- M. Karjalainen
+- D. Kerszberg
+- Y. Kobayashi
+- H. Kubo
+- J. Kushida
+- A. Lamastra
+- D. Lelas
+- F. Leone
+- E. Lindfors
+- S. Lombardi
+- F. Longo
+- R. López-Coto
+- M. López-Moya
+- A. López-Oramas
+- S. Loporchio
+- B. Machado de Oliveira Fraga
+- C. Maggio
+- P. Majumdar
+- M. Makariev
+- M. Mallamaci
+- G. Maneva
+- M. Manganaro
+- K. Mannheim
+- L. Maraschi
+- M. Mariotti
+- M. Mart\'ıź
+- D. Mazin
+- S. Mender
+- ́and Miceli, D. Mi\'cav́i\'c
+- T. Miener
+- M. Minev
+- J.~M. Miranda
+- R. Mirzoyan
+- E. Molina
+- A. Moralejo
+- D. Morcuende
+- V. Moreno
+- E. Moretti
+- V. Neustroev
+- C. Nigro
+- K. Nilsson
+- D. Ninci
+- K. Nishijima
+- K. Noda
+- S. Nozaki
+- Y. Ohtani
+- T. Oka
+- J. Otero-Santos
+- S. Paiano
+- M. Palatiello
+- D. Paneque
+- R. Paoletti
+- J.~M. Paredes
+- Lánd Peñil, P. Pavleti\'c
+- C. Perennes
+- M. Persic
+- P.~G. Prada Moroni
+- E. Prandini
+- C. Priyadarshi
+- I. Puljak
+- W. Rhode
+- M. Ribó
+- J. Rico
+- C. Righi
+- A. Rugliancich
+- L. Saha
+- N. Sahakyan
+- T. Saito
+- S. Sakurai
+- K. Satalecka
+- F.~G. Saturni
+- B. Schleicher
+- K. Schmidt
+- T. Schweizer
+- J. Sitarek
+- I.ńd Sobczynska, D. Šnidari\'c
+- A. Spolon
+- A. Stamerra
+- D. Strom
+- M. Strzys
+- Y. Suda
+- T. d́ Takahashi, M. Suri\'c
+- F. Tavecchio
+- P. Temnikov
+- T. a ́Teshima, M. Terzi\'c
+- N. Torres-Albà
+- L. Tosti
+- S. Truzzi
+- A. Tutone
+- J. van Scherpenberg
+- G. Vanzo
+- M. Vazquez Acosta
+- S. Ventura
+- V. Verguilov
+- C.~F. Vigorito
+- V. Vitale
+- I. Vovk
+- M. Will
+- D. anÁngioni, R. Zari\'c
+- F. D'Ammando
+- S. Ciprini
+- C.~C. Cheung
+- M. Orienti
+- L. Pacciani
+- P. Prajapati
+- P. Kumar
+- S. Ganesh
+- M. Minev
+- A. Kurtenkov
+- A. Marchini
+- L. Carrasco
+- G. Escobedo
+- A. Porras
+- E. Recillas
+- A. Lähteenmäki
+- M. Tornikoski
+- M. Berton
+- J. Tammi
+- R.~J.~C. Vera
+- S.~G. Jorstad
+- A.~P. Marscher
+- Z.~R. Weaver
+- M. Hart
+- M.~K. Hallum
+- V.~M. Larionov
+- G.~A. Borman
+- T.~S. Grishina
+- E.~N. Kopatskaya
+- E.~G. Larionova
+- A.~A. Nikiforova
+- D.~A. Morozova
+- S.~S. Savchenko
+- Yu. V. Troitskaya
+- I.~S. Troitsky
+- A.~A. Vasilyev
+- M. Hodges
+- T. Hovatta
+- S. Kiehlmann
+- W. Max-Moerbeck
+- A.~C.~S. Readhead
+- R. Reeves
+- T.~J. Pearson
+date: '2021-03-01'
+publishDate: '2024-03-25T16:45:47.769648Z'
+publication_types:
+- article-journal
+publication: '*åp*'
+doi: 10.1051/0004-6361/202039687
+tags:
+- 'gamma rays: galaxies'
+- 'galaxies: jets'
+- 'radiation mechanisms: non-thermal'
+- 'quasars: individual: QSO B1420+326'
+- Astrophysics - High Energy Astrophysical Phenomena
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/2012.11380
+---

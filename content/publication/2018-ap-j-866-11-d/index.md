@@ -1,0 +1,126 @@
+---
+title: 'Authenticating the Presence of a Relativistic Massive Black Hole Binary in
+  OJ 287 Using Its General Relativity Centenary Flare: Improved Orbital Parameters'
+authors:
+- Lankeswar Dey
+- M.~J. Valtonen
+- A. Gopakumar
+- S. Zola
+- R. Hudec
+- P. Pihajoki
+- S. Ciprini
+- K. Matsumoto
+- K. Sadakane
+- M. Kidger
+- K. Nilsson
+- S. Mikkola
+- A. Sillanpää
+- L.~O. Takalo
+- H.~J. Lehto
+- A. Berdyugin
+- V. Piirola
+- H. Jermak
+- K.~S. Baliyan
+- T. Pursimo
+- D.~B. Caton
+- F. Alicavus
+- A. Baransky
+- P. Blay
+- P. Boumis
+- D. Boyd
+- M. Campas Torrent
+- F. Campos
+- J. Carrillo Gómez
+- S. Chandra
+- V. Chavushyan
+- J. Dalessio
+- B. Debski
+- M. Drozdz
+- H. Er
+- A. Erdem
+- A. Escartin Pérez
+- V. Fallah Ramazani
+- A.~V. Filippenko
+- E. Gafton
+- S. Ganesh
+- F. Garcia
+- K. Gazeas
+- V. Godunova
+- F. Gómez Pinilla
+- M. Gopinathan
+- J.~B. Haislip
+- J. Harmanen
+- G. Hurst
+- J. Janı́k
+- M. Jelinek
+- A. Joshi
+- M. Kagitani
+- R. Karjalainen
+- N. Kaur
+- W.~C. Keel
+- V.~V. Kouprianov
+- T. Kundera
+- S. Kurowski
+- A. Kvammen
+- A.~P. LaCluyze
+- B.~C. Lee
+- A. Liakos
+- E. Lindfors
+- J. Lozano de Haro
+- M. Mugrauer
+- R. Naves Nogues
+- A.~W. Neely
+- R.~H. Nelson
+- W. Ogloza
+- S. Okano
+- U. Pajdosz-\ḿierciak
+- J.~C. Pandey
+- M. Perri
+- G. Poyner
+- J. Provencal
+- A. Raj
+- D.~E. Reichart
+- R. Reinthal
+- T. Reynolds
+- J. Saario
+- S. Sadegi
+- T. Sakanoi
+- J. -L. Salto González
+- ' Sameer'
+- T. Schweyer
+- A. Simon
+- M. Siwak
+- F.~C. Soldán Alfaro
+- E. Sonbas
+- I. Steele
+- J.~T. Stocke
+- J. Strobl
+- T. Tomov
+- L. Tremosa Espasa
+- J.~R. Valdes
+- J. Valero Pérez
+- F. Verrecchia
+- V. Vasylenko
+- J.~R. Webb
+- M. Yoneda
+- M. Zejmo
+- W. Zheng
+- P. Zielinski
+date: '2018-10-01'
+publishDate: '2024-03-25T16:45:47.612474Z'
+publication_types:
+- article-journal
+publication: '*apj*'
+doi: 10.3847/1538-4357/aadd95
+tags:
+- black hole physics
+- gravitation
+- 'quasars: general'
+- 'quasars: individual: OJ 287'
+- Astrophysics - High Energy Astrophysical Phenomena
+- Astrophysics - Astrophysics of Galaxies
+- General Relativity and Quantum Cosmology
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/1808.09309
+---
