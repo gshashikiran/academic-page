@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Shashikiran Ganesh
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Shashikiran Ganesh
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Shashikiran
+last_name: Ganesh
 
 # Status emoji
 status:
@@ -17,34 +17,40 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Professor 
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Physical Research Laboratory
+    url: https://www.prl.res.in/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Comets, the Milky Way and Astronomical Instrumentation
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Comets and other minor bodies of the Solar System
+  - Structure and evolution of the Milky Way Galaxy
+  - Astronomical Instrumentation
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Physics
+      institution: Physical Research Laboratory - degree awarded by the Gujarat University 
+      year: 2010
+    - course: PG Diploma in Space Sciences
+      institution: Gujarat University
+      year: 1995
+    - course: PG Diploma in Computer Applications
+      institution: Gujarat University
+      year: 1994
+    - course: M.Sc. (Physics)
+      institution: Gujarat University
+      year: 1993
+    - course: B.Sc. (Physics)
+      institution: St. Xavier's College / Gujarat University
+      year: 1991
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -70,15 +76,10 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Birding
         description: ''
-        percent: 60
+        percent: 80
         icon: person-hiking
-        icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
         icon_pack: fas
       - name: Photography
         description: ''
@@ -96,16 +97,16 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/ShashiGanesh
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?hl=en&user=dIYsPx4AAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/gshashikiran
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
@@ -120,5 +121,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Shashikiran Ganesh is a professor in the Astronomy & Astrophysics Division of Physical Research Laboratory. 
 {style="text-align: justify;"}
