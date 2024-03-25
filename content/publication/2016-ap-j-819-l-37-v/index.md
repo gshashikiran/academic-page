@@ -1,0 +1,111 @@
+---
+title: Primary Black Hole Spin in OJ 287 as Determined by the General Relativity Centenary
+  Flare
+authors:
+- M.~J. Valtonen
+- S. Zola
+- S. Ciprini
+- A. Gopakumar
+- K. Matsumoto
+- K. Sadakane
+- M. Kidger
+- K. Gazeas
+- K. Nilsson
+- A. Berdyugin
+- V. Piirola
+- H. Jermak
+- K.~S. Baliyan
+- F. Alicavus
+- D. Boyd
+- M. Campas Torrent
+- F. Campos
+- J. Carrillo Gómez
+- D.~B. Caton
+- V. Chavushyan
+- J. Dalessio
+- B. Debski
+- D. Dimitrov
+- M. Drozdz
+- H. Er
+- A. Erdem
+- A. Escartin Pérez
+- V. Fallah Ramazani
+- A.~V. Filippenko
+- S. Ganesh
+- F. Garcia
+- F. Gómez Pinilla
+- M. Gopinathan
+- J.~B. Haislip
+- R. Hudec
+- G. Hurst
+- K.~M. Ivarsen
+- M. Jelinek
+- A. Joshi
+- M. Kagitani
+- N. Kaur
+- W.~C. Keel
+- A.~P. LaCluyze
+- B.~C. Lee
+- E. Lindfors
+- J. Lozano de Haro
+- J.~P. Moore
+- M. Mugrauer
+- R. Naves Nogues
+- A.~W. Neely
+- R.~H. Nelson
+- W. Ogloza
+- S. Okano
+- J.~C. Pandey
+- M. Perri
+- P. Pihajoki
+- G. Poyner
+- J. Provencal
+- T. Pursimo
+- A. Raj
+- D.~E. Reichart
+- R. Reinthal
+- S. Sadegi
+- T. Sakanoi
+- J. -L. Salto González
+- ' Sameer'
+- T. Schweyer
+- M. Siwak
+- F.~C. Soldán Alfaro
+- E. Sonbas
+- I. Steele
+- J.~T. Stocke
+- J. Strobl
+- L.~O. Takalo
+- T. Tomov
+- L. Tremosa Espasa
+- J.~R. Valdes
+- J. Valero Pérez
+- F. Verrecchia
+- J.~R. Webb
+- M. Yoneda
+- M. Zejmo
+- W. Zheng
+- J. Telting
+- J. Saario
+- T. Reynolds
+- A. Kvammen
+- E. Gafton
+- R. Karjalainen
+- J. Harmanen
+- P. Blay
+date: '2016-03-01'
+publishDate: '2024-03-25T16:45:47.577851Z'
+publication_types:
+- article-journal
+publication: '*apjl*'
+doi: 10.3847/2041-8205/819/2/L37
+tags:
+- black hole physics
+- 'quasars: general'
+- 'quasars: individual: OJ 287'
+- 'quasars: supermassive black holes'
+- Astrophysics - High Energy Astrophysical Phenomena
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/1603.04171
+---
