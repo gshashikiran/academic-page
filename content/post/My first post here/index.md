@@ -1,5 +1,5 @@
 ---
-title: Some pics randomly uploaded here
+title: Group pics
 subtitle: Group members at some point gathered to get a pic - Aravind is missing - probably he was the one taking the pic (as usual) 
 
 # Summary for listings and search engines
