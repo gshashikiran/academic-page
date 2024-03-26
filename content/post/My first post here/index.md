@@ -1,6 +1,6 @@
----
 title: Some pics randomly uploaded here
-subtitle: some pics from shela...
+subtitle: Group members at some point gathered to get a pic - Aravind is missing - probably he was the one taking the pic (as usual) 
+
 # Summary for listings and search engines
 summary: Some pics uploaded here as a test
 
@@ -22,7 +22,7 @@ featured: true
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Shashi**]'
+  caption: 'Image credit: [**Aravind**]'
   focal_point: ''
   placement: 2
   preview_only: false
@@ -36,5 +36,3 @@ tags:
 categories:
   - Demo
 ---
-
-## Get Started
