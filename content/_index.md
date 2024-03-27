@@ -62,13 +62,13 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: 
+          company:  
           company_url: ''
           company_logo: org-gc
           location: California
-          date_start: '2021-01-01'
-          date_end: ''
+      #    date_start: '2021-01-01'
+      #    date_end: ''
           description: |2-
               Responsibilities include:
 
@@ -76,13 +76,13 @@ sections:
               * M
               * De
         - title: Profctor Physics
-          company: Univty X
+      #    company: Univty X
           company_url: ''
           company_logo: org-x
           location: Califnia
           date_start: '2016-01-01'
           date_end: '2020-12-31'
-          description: Taught eleneering and researonductor physics.
+          description: Ta physics.
     design:
       columns: '2'
   - block: accomplishments
@@ -102,7 +102,7 @@ sections:
           date_end: ''
           date_start: '2021-01-25'
           description: 'Comets'
-          icon: coursera
+          #icon: coursera
           organization: CalTech
           organization_url: ztf
           title: Kumar Venkataramani
@@ -111,7 +111,7 @@ sections:
           date_end: ''
           date_start: '2021-01-01'
           description: 'NISP'
-          icon: edx
+          #icon: edx
           organization: KASI
           organization_url: 
           title: Archita Rai
@@ -120,20 +120,20 @@ sections:
           date_end: '2020-12-21'
           date_start: '2020-07-01'
           description: ''
-          icon: datacamp
+          #icon: datacamp
           organization: PRL
           organization_url: 
           title: 'Aravind K.'
-          url: ''
+          url: 'Comets'
         - certificate_url: 
           date_end: '2020-12-21'
           date_start: '2020-07-01'
           description: ''
-          icon: datacamp
+          #icon: datacamp
           organization: 
           organization_url: 
           title: 'Namita Uppal'
-          url: ''
+          url: 'The Milky Way'
     design:
       columns: '2'
   - block: collection
@@ -198,17 +198,17 @@ sections:
         {{< gallery album="birds" >}}
     design:
       columns: '1'
-  - block: collection
-    id: featured
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
+  #- block: collection
+  #  id: featured
+  #  content:
+  #    title: Featured Publications
+  #    filters:
+  #      folders:
+  ##        - publication
+  #      featured_only: true
+  #  design:
+  #    columns: '2'
+  #    view: card
   - block: collection
     content:
       title: Recent Publications
@@ -246,9 +246,9 @@ sections:
       text: |-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
+      email: shashi _at_ prl.res.in
+      #phone: 888 888 88 88
+      #appointment_url: 'https://calendly.com'
       address:
       #  street: 450 Serra Mall
         city: Ahmedabad
