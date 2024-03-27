@@ -72,23 +72,23 @@ sections:
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+              * 
+              * M
+              * De
+        - title: Profctor Physics
+          company: Univty X
           company_url: ''
           company_logo: org-x
-          location: California
+          location: Califnia
           date_start: '2016-01-01'
           date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: Taught eleneering and researonductor physics.
     design:
       columns: '2'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
+      title: 'My PhD Students'
       subtitle:
       # Date format: https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
@@ -98,32 +98,41 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: h
           date_end: ''
           date_start: '2021-01-25'
-          description: ''
+          description: 'Comets'
           icon: coursera
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          organization: CalTech
+          organization_url: ztf
+          title: Kumar Venkataramani
           url: ''
         - certificate_url: https://www.edx.org
           date_end: ''
           date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
+          description: 'NISP'
           icon: edx
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
+          organization: KASI
+          organization_url: 
+          title: Archita Rai
+          url: 
+        - certificate_url: 
           date_end: '2020-12-21'
           date_start: '2020-07-01'
           description: ''
           icon: datacamp
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          organization: PRL
+          organization_url: 
+          title: 'Aravind K.'
+          url: ''
+        - certificate_url: 
+          date_end: '2020-12-21'
+          date_start: '2020-07-01'
+          description: ''
+          icon: datacamp
+          organization: 
+          organization_url: 
+          title: 'Namita Uppal'
           url: ''
     design:
       columns: '2'
@@ -186,7 +195,7 @@ sections:
       title: Gallery
       subtitle: ''
       text: |-
-        {{< gallery album="demo" >}}
+        {{< gallery album="birds" >}}
     design:
       columns: '1'
   - block: collection
@@ -241,43 +250,43 @@ sections:
       phone: 888 888 88 88
       appointment_url: 'https://calendly.com'
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+      #  street: 450 Serra Mall
+        city: Ahmedabad
+      #  region: CA
+        postcode: '380058'
+        country: India
+        country_code: IN
+      #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+      #office_hours:
+      #  - 'Monday 10:00 to 13:00'
+      #  - 'Wednesday 09:00 to 10:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'  
+        latitude: '22.09'
+        longitude: '78.3'  
       contact_links:
         - icon: twitter
           icon_pack: fab
           name: DM Me
           link: 'https://twitter.com/Twitter'
-        - icon: skype
-          icon_pack: fab
-          name: Skype Me
-          link: 'skype:echo123?call'
-        - icon: video
-          icon_pack: fas
-          name: Zoom Me
-          link: 'https://zoom.com'
+        #- icon: skype
+        #  icon_pack: fab
+        #  name: Skype Me
+        #  link: 'skype:echo123?call'
+        #- icon: video
+        #  icon_pack: fas
+        #  name: Zoom Me
+        #  link: 'https://zoom.com'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+      #form:
+      #  provider: netlify
+      #  formspree:
+      #    id:
+      #  netlify:
+      ##    # Enable CAPTCHA challenge to reduce spam?
+      #   captcha: false
     design:
       columns: '2'
 ---
