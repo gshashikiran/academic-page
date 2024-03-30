@@ -65,7 +65,7 @@ sections:
         - title: 
           company:  
           company_url: ''
-          company_logo: org-gc
+          #company_logo: org-gc
           location: California
       #    date_start: '2021-01-01'
       #    date_end: ''
@@ -79,7 +79,7 @@ sections:
       #    company: Univty X
           company_url: ''
           company_logo: org-x
-          location: Califnia
+          location: 
           date_start: '2016-01-01'
           date_end: '2020-12-31'
           description: Ta physics.
@@ -98,36 +98,36 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: h
-          date_end: ''
-          date_start: '2021-01-25'
+        - #certificate_url: h
+          date_end: '2018'
+          date_start: '2013'
           description: 'Comets'
           #icon: coursera
           organization: CalTech
           organization_url: ztf
           title: Kumar Venkataramani
           url: ''
-        - certificate_url: https://www.edx.org
-          date_end: ''
-          date_start: '2021-01-01'
+        - #certificate_url: https://www.edx.org
+          date_end: '2020'
+          date_start: '2015'
           description: 'NISP'
           #icon: edx
           organization: KASI
           organization_url: 
           title: Archita Rai
           url: 
-        - certificate_url: 
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
+        - #certificate_url: 
+          date_end: '2022'
+          date_start: '2017'
           description: ''
           #icon: datacamp
           organization: PRL
           organization_url: 
           title: 'Aravind K.'
           url: 'Comets'
-        - certificate_url: 
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
+        - #certificate_url: 
+          date_end: '2018'
+          date_start: '2023'
           description: ''
           #icon: datacamp
           organization: 
