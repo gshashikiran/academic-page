@@ -99,37 +99,37 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - #certificate_url: h
-          date_end: 'Jun 2018'
-          date_start: 'Jul 2013'
+          date_end: '2018-06-01'
+          date_start: '2013-07-15'
           description: 'Comets'
-          icon: datacamp
+          #icon: datacamp
           organization: CalTech
           organization_url: ztf
           title: Kumar Venkataramani
           url: ''
         - #certificate_url: https://www.edx.org
-          date_end: 'Aug 2020'
-          date_start: 'Jul 2015'
+          date_end: '2020-08-10'
+          date_start: '2015-07-01'
           description: 'NISP'
-          icon: datacamp
+          #icon: datacamp
           organization: KASI
           organization_url: 
           title: Archita Rai
           url: 
         - #certificate_url: 
-          date_end: 'Jul 2022'
-          date_start: 'Jun 2017'
+          date_end: '2022-07-16'
+          date_start: '2017-07-18'
           description: ''
-          icon: datacamp
+          #icon: datacamp
           organization: PRL
           organization_url: 
           title: 'Aravind K.'
           url: 'Comets'
         - #certificate_url: 
-          date_end: 'Jun 2018'
-          date_start: 'Dec 2023'
+          date_end: '2023-07-18'
+          date_start: '2018-07-18'
           description: ''
-          icon: datacamp
+          #icon: datacamp
           organization: 
           organization_url: 
           title: 'Namita Uppal'
