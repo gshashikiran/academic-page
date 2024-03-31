@@ -65,10 +65,10 @@ sections:
         - title: 
           company:  
           company_url: ''
-          #company_logo: org-gc
+          company_logo: org-gc
           location: California
-      #    date_start: '2021-01-01'
-      #    date_end: ''
+          date_start: '2021-01-01'
+          date_end: ''
           description: |2-
               Responsibilities include:
 
@@ -76,7 +76,7 @@ sections:
               * M
               * De
         - title: Profctor Physics
-      #    company: Univty X
+          company: Univty X
           company_url: ''
           company_logo: org-x
           location: 
