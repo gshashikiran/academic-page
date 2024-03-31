@@ -104,9 +104,9 @@ sections:
           description: 'Comets'
           #icon: datacamp
           organization: PRL
-          organization_url: ztf
+          organization_url: 
           title: Kumar Venkataramani
-          url: ''
+          url: 'kumar/index.php'
         - #certificate_url: https://www.edx.org
           date_end: '2020-08-10'
           date_start: '2015-07-01'
@@ -253,7 +253,7 @@ sections:
       #  street: 450 Serra Mall
         city: Ahmedabad
       #  region: CA
-        postcode: '380058'
+        postcode: '380 058'
         country: India
         country_code: IN
       #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
