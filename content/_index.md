@@ -91,7 +91,7 @@ sections:
       title: 'Scientists who completed their PhD with my guidance'
       subtitle:
       # Date format: https://docs.hugoblox.com/customization/#date-format
-      date_format: 2006
+      date_format: Jan 2006
       # Accomplishments.
       #   Add/remove as many `item` blocks below as you like.
       #   `title`, `organization`, and `date_start` are the required parameters.
@@ -99,8 +99,8 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - #certificate_url: h
-          date_end: '2018'
-          date_start: '2013'
+          date_end: 'Jun 2018'
+          date_start: 'Jul 2013'
           description: 'Comets'
           icon: datacamp
           organization: CalTech
@@ -108,8 +108,8 @@ sections:
           title: Kumar Venkataramani
           url: ''
         - #certificate_url: https://www.edx.org
-          date_end: '2020'
-          date_start: '2015'
+          date_end: 'Aug 2020'
+          date_start: 'Jul 2015'
           description: 'NISP'
           icon: datacamp
           organization: KASI
@@ -117,8 +117,8 @@ sections:
           title: Archita Rai
           url: 
         - #certificate_url: 
-          date_end: '2022'
-          date_start: '2017'
+          date_end: 'Jul 2022'
+          date_start: 'Jun 2017'
           description: ''
           icon: datacamp
           organization: PRL
@@ -126,8 +126,8 @@ sections:
           title: 'Aravind K.'
           url: 'Comets'
         - #certificate_url: 
-          date_end: '2018'
-          date_start: '2023'
+          date_end: 'Jun 2018'
+          date_start: 'Dec 2023'
           description: ''
           icon: datacamp
           organization: 
