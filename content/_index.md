@@ -50,39 +50,39 @@ sections:
       username: admin
     design:
       columns: '1'
-  - block: experience
-    content:
-      title: Experience
+  - #block: experience
+    #content:
+    #  title: Experience
       # Date format for experience
       #   Refer to https://docs.hugoblox.com/customization/#date-format
-      date_format: Jan 2006
+    #  date_format: Jan 2006
       # Experiences.
       #   Add/remove as many `experience` items below as you like.
       #   Required fields are `title`, `company`, and `date_start`.
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - title: 
-          company:  
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
-          description: |2-
-              Responsibilities include:
+    #  items:
+    #    - title: 
+    #      company:  
+    #      company_url: ''
+    #      company_logo: org-gc
+    #      location: California
+    #      date_start: '2021-01-01'
+    #      date_end: ''
+    #      description: |2-
+    #          Responsibilities include:
 
-              * 
-              * M
-              * De
-        - title: Profctor Physics
-          company: Univty X
-          company_url: ''
-          company_logo: org-x
-          location: 
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Ta physics.
+    #          * 
+    #          * M
+    #          * De
+    #    - title: Profctor Physics
+    #      company: Univty X
+    #      company_url: ''
+    #      company_logo: org-x
+    #      location: 
+    #      date_start: '2016-01-01'
+    #      date_end: '2020-12-31'
+    #      description: Ta physics.
     design:
       columns: '2'
   - block: accomplishments
@@ -103,7 +103,7 @@ sections:
           date_start: '2013-07-15'
           description: 'Comets'
           #icon: datacamp
-          organization: CalTech
+          organization: PRL
           organization_url: ztf
           title: Kumar Venkataramani
           url: ''
@@ -112,28 +112,28 @@ sections:
           date_start: '2015-07-01'
           description: 'NISP'
           #icon: datacamp
-          organization: KASI
+          organization: PRL
           organization_url: 
           title: Archita Rai
           url: 
         - #certificate_url: 
           date_end: '2022-07-16'
           date_start: '2017-07-18'
-          description: ''
+          description: 'Comets'
           #icon: datacamp
           organization: PRL
           organization_url: 
           title: 'Aravind K.'
-          url: 'Comets'
+          url: ''
         - #certificate_url: 
           date_end: '2023-07-18'
           date_start: '2018-07-18'
-          description: ''
+          description: 'The Milky Way'
           #icon: datacamp
-          organization: 
+          organization: PRL
           organization_url: 
           title: 'Namita Uppal'
-          url: 'The Milky Way'
+          url: ''
     design:
       columns: '2'
   - block: collection
@@ -195,7 +195,7 @@ sections:
       title: Gallery
       subtitle: ''
       text: |-
-        {{< gallery album="birds" >}}
+        {{< gallery album="demo" >}}
     design:
       columns: '1'
   #- block: collection
