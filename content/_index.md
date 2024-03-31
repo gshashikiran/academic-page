@@ -102,7 +102,7 @@ sections:
           date_end: '2018'
           date_start: '2013'
           description: 'Comets'
-          #icon: coursera
+          icon: datacamp
           organization: CalTech
           organization_url: ztf
           title: Kumar Venkataramani
@@ -111,7 +111,7 @@ sections:
           date_end: '2020'
           date_start: '2015'
           description: 'NISP'
-          #icon: edx
+          icon: datacamp
           organization: KASI
           organization_url: 
           title: Archita Rai
@@ -120,7 +120,7 @@ sections:
           date_end: '2022'
           date_start: '2017'
           description: ''
-          #icon: datacamp
+          icon: datacamp
           organization: PRL
           organization_url: 
           title: 'Aravind K.'
@@ -129,7 +129,7 @@ sections:
           date_end: '2018'
           date_start: '2023'
           description: ''
-          #icon: datacamp
+          icon: datacamp
           organization: 
           organization_url: 
           title: 'Namita Uppal'
