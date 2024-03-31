@@ -65,7 +65,7 @@ sections:
         - title:  Goldy Ahuja
           company:  PRL
           company_url: 'Goldy/index.php'
-          company_logo: goldy
+          company_logo: 'assets/media/icons/brands/goldy.jpg'
           location: PRL
           date_start: '2020-07-01'
           date_end: ''
