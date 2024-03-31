@@ -50,26 +50,26 @@ sections:
       username: admin
     design:
       columns: '1'
-  - #block: experience
-    #content:
-    #  title: Experience
+  - block: experience
+    content:
+      title: PhD Students
       # Date format for experience
       #   Refer to https://docs.hugoblox.com/customization/#date-format
-    #  date_format: Jan 2006
+      date_format: Jan 2006
       # Experiences.
       #   Add/remove as many `experience` items below as you like.
       #   Required fields are `title`, `company`, and `date_start`.
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-    #  items:
-    #    - title: 
-    #      company:  
-    #      company_url: ''
-    #      company_logo: org-gc
-    #      location: California
-    #      date_start: '2021-01-01'
-    #      date_end: ''
-    #      description: |2-
+      items:
+        - title:  Goldy Ahuja
+          company:  PRL
+          company_url: 'Goldy/index.php'
+          company_logo: goldy
+          location: PRL
+          date_start: '2020-07-01'
+          date_end: ''
+          description: 'Comets' #|2-
     #          Responsibilities include:
 
     #          * 
