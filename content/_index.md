@@ -115,7 +115,7 @@ sections:
           organization: PRL
           organization_url: 
           title: Archita Rai
-          url: 
+          url: 'archita/index.php'
         - #certificate_url: 
           date_end: '2022-07-16'
           date_start: '2017-07-18'
@@ -124,7 +124,7 @@ sections:
           organization: PRL
           organization_url: 
           title: 'Aravind K.'
-          url: ''
+          url: 'aravind/index.php'
         - #certificate_url: 
           date_end: '2023-07-18'
           date_start: '2018-07-18'
@@ -133,7 +133,7 @@ sections:
           organization: PRL
           organization_url: 
           title: 'Namita Uppal'
-          url: ''
+          url: 'namita/index.php'
     design:
       columns: '2'
   - block: collection
